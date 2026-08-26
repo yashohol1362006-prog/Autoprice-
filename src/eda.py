@@ -209,6 +209,7 @@ print(comperison.head(10))
 comperison['Error'] = comperison['Actual Price'] - comperison['Predicted Price']
 print(comperison.head(10))
 
+#Differnce between Actual & Predicted Price
 sns.scatterplot( x = y_test, y = y_pred )
 plt.plot(
     [y_test.min(), y_test.max()],
