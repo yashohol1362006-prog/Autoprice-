@@ -2,7 +2,7 @@
 
 AutoPrice is a machine learning project that predicts the price of a used car based on its details.
 
-I built this project to practice the complete machine learning workflow — starting from exploring and cleaning a real dataset, preparing the data for a model, training a Linear Regression model, evaluating its performance, and finally putting the model into a simple Streamlit web application.
+I built this project to practice the complete machine learning workflow — starting from exploring and cleaning a real dataset, preparing the data for a model, training a Linear Regression model, evaluating its performance, and finally putting the model into a simple Streamlit web application. 
 
 ## What does it do?
 
