@@ -21,7 +21,7 @@ You enter details about a car such as:
 The application then uses the trained machine learning model to estimate the car's price.
 
 ## 🛠️ Technologies I Used
-
+ 
 - Python
 - Pandas
 - NumPy
