@@ -5,7 +5,7 @@ import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
-import joblib 
+import joblib  
 
 df = pd.read_csv(r"C:\Users\Yash Ohol\OneDrive\Autoprice\data\cars_dataset.csv")
 print('Your first 5 rows are ')
